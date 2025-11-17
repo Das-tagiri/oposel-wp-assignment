@@ -1,4 +1,4 @@
-# Toposel Custom Theme (Assignment)
+# Toposel Custom Theme
 
 This is a minimal WordPress theme created for the Toposel WordPress assignment (mobile homepage).
 
